@@ -1,4 +1,4 @@
-#developed by Ayush Goswami, Shubham Kumar,Avinash Prasad, Rajesh Kumar Giri and Pallavi Kumari
+#developed by Ayush Goswami, Shubham Kumar
 from tkinter import *
 import sqlite3
 class Project(Tk):
